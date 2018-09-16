@@ -36,6 +36,8 @@
     "concurrently": "^4.0.1",
     "cross-env": "^5.2.0",
     "express": "^4.16.3",
-    "mongojs": "^2.6.0"
+    "if-env": "^1.0.4",
+    "mongojs": "^2.6.0",
+    "mongoose": "^5.2.15"
   }
 }
