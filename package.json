@@ -27,13 +27,13 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-react": "^7.11.1",
+    "concurrently": "^4.0.1",
     "tachyons": "^4.10.0"
   },
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
-    "concurrently": "^4.0.1",
     "cross-env": "^5.2.0",
     "express": "^4.16.3",
     "if-env": "^1.0.4",
